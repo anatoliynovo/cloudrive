@@ -45,7 +45,7 @@ export default function AddFolderButton({ currentFolder }) {
 
   return (
     <>
-      <Button onClick={openModal} variant='outline-info' size='lg'>
+      <Button onClick={openModal} variant='warning' size='lg'>
         <FontAwesomeIcon icon={faFolderPlus} />
       </Button>
       <Modal show={open} onHide={closeModal}>
