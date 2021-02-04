@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Cloadrive
 
 Store the data in the cloud include functions like: <br>
 • Sign/Log in to an account <br>
-• Upload/Show files 
+• Manage folders <br>
+• Upload/show files
