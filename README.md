@@ -1,6 +1,8 @@
 # Cloadrive
 
-Store the data in the cloud include functions like: <br>
-• Sign/Log in to an account <br>
-• Manage folders <br>
+Store data in the database 
+
+At this time include functions like: <br>
+• Authentication: sign up /log in to an account <br>
+• Add folders <br>
 • Upload/show files
