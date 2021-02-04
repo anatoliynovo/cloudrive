@@ -6,7 +6,7 @@ import BrandLogo from '../../assets/logo.png';
 
 export default function NavbarComponent() {
   return (
-    <Navbar bg='light' expand='ml'>
+    <Navbar className="shadow" bg='light' expand='ml'>
       <Navbar.Brand as={Link} to='/'>
       <img src={BrandLogo} alt={'logo'} style={{width: "80px"}}/>
       </Navbar.Brand>
